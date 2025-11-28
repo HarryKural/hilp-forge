@@ -32,7 +32,7 @@ Data augmentation for High-Impact Low-Probability (HILP) storm events using deep
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/hilp-forge.git
+git clone https://github.com/HarryKural/hilp-forge
 cd hilp-forge
 ```
 

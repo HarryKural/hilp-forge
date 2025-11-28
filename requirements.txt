@@ -1,9 +1,9 @@
 # core dependencies
 pandas
-numpy   
-matplotlib  
-seaborn 
-scipy   
+numpy
+matplotlib
+seaborn
+scipy
 scikit-learn
 
 # data handling and visualization
