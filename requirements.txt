@@ -1,0 +1,30 @@
+# core dependencies
+pandas
+numpy   
+matplotlib  
+seaborn 
+scipy   
+scikit-learn
+
+# data handling and visualization
+requests
+tqdm
+
+# deep learning
+torch
+torchvision
+
+# other useful libraries
+joblib
+
+# Jupyter notebooks
+jupyter
+notebook
+ipykernel
+
+# geospatial analysis
+geopandas
+folium
+plotly
+pyarrow
+fastparquet
