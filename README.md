@@ -38,11 +38,12 @@ cd hilp-forge
 
 2. **Create virtual environment**
 ```bash
-python -m venv venv
+python3 -m venv venv
 
 # Activate
 # Windows:
 venv\Scripts\activate
+
 # Mac/Linux:
 source venv/bin/activate
 ```
