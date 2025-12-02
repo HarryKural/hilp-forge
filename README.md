@@ -1,6 +1,6 @@
 # HILP-Forge
 
-## HILP Event Data Augmentation with Diffusion Models
+## Data Augmentation for HILP Event Characterization Using Diffusion Models
 
 Data augmentation for High-Impact Low-Probability (HILP) storm events using deep learning diffusion models. This project synthesizes realistic tornado events to support resilience analysis and emergency planning.
 
@@ -25,6 +25,7 @@ Data augmentation for High-Impact Low-Probability (HILP) storm events using deep
 ### Prerequisites
 
 - Python 3.8+
+- PyTorch 2.0+
 - 8GB RAM minimum
 - CUDA-capable GPU (optional, but recommended)
 
